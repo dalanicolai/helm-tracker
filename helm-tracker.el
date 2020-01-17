@@ -26,7 +26,7 @@
 ;; tracker to be installed.
 
 ;;; Code:
-(require 'helm)
+(require helm)
 
 (defgroup 'helm-tracker nil
   "helm interface for gnome tracker")
